@@ -1,0 +1,6 @@
+c:\users\fountain\documents\DEV\visual.studios\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+c:\users\fountain\documents\DEV\visual.studios\RestaurantManager\bin\Debug\RestaurantManager.exe
+c:\users\fountain\documents\DEV\visual.studios\RestaurantManager\bin\Debug\RestaurantManager.pdb
+c:\users\fountain\documents\DEV\visual.studios\RestaurantManager\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+c:\users\fountain\documents\DEV\visual.studios\RestaurantManager\obj\Debug\RestaurantManager.exe
+c:\users\fountain\documents\DEV\visual.studios\RestaurantManager\obj\Debug\RestaurantManager.pdb
